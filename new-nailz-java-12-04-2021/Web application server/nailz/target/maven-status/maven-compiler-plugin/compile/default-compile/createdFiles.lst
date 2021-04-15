@@ -1,0 +1,7 @@
+com\app\nailz\Md5Hash.class
+com\app\nailz\NailzCalendarManager.class
+com\app\nailz\NailzApplication.class
+com\app\nailz\Sqllitedb.class
+com\app\nailz\NailzProcController.class
+com\app\nailz\UserAccount.class
+com\app\nailz\NailzCalendar.class
